@@ -249,15 +249,15 @@ cd lab03
 
 ```
 lab03/Steganography/
-|    ├── Main.cpp                           # Точка входу в програму.
-|    ├── SteganographyEngine.h              # Заголовок движка стеганографії.
-|    ├── SteganographyEngine.cpp            # Реалізація алгоритмів LSB.
-|    ├── SteganographyWindow.h              # Заголовок головного вікна.
-|    ├── SteganographyWindow.cpp            # Конструктор та базова ініціалізація.
-|    ├── SteganographyWindow_UI.cpp         # Створення інтерфейсу (4 вкладки).
-|    ├── SteganographyWindow_Slots.cpp      # Обробники подій (слоти).
-|    ├── SteganographyWindow_Helpers.cpp    # Допоміжні методи та стилі.
-|    └── lab03.pro                          # Файл проєкту Qt (qmake).
+│    ├── Main.cpp                           # Точка входу в програму.
+│    ├── SteganographyEngine.h              # Заголовок движка стеганографії.
+│    ├── SteganographyEngine.cpp            # Реалізація алгоритмів LSB.
+│    ├── SteganographyWindow.h              # Заголовок головного вікна.
+│    ├── SteganographyWindow.cpp            # Конструктор та базова ініціалізація.
+│    ├── SteganographyWindow_UI.cpp         # Створення інтерфейсу (4 вкладки).
+│    ├── SteganographyWindow_Slots.cpp      # Обробники подій (слоти).
+│    ├── SteganographyWindow_Helpers.cpp    # Допоміжні методи та стилі.
+│    └── lab03.pro                          # Файл проєкту Qt (qmake).
 └── README.md                          # Цей файл.
 ```
 

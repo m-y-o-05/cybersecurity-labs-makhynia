@@ -167,19 +167,19 @@ cd lab01
 ### Структура проєкту:
 
 ```
-lab01/
-├── Main.cpp                  # Точка входу в програму.
-├── MainWindow.h              # Заголовочний файл головного вікна.
-├── MainWindow.cpp            # Реалізація головного вікна.
-├── PasswordAnalyzer.h        # Заголовочний файл аналізатора.
-├── PasswordAnalyzer.cpp      # Реалізація логіки аналізу.
-├── ReportGenerator.h         # Заголовочний файл генератора звітів.
-├── ReportGenerator.cpp       # Реалізація HTML-звітів.
-├── UIStyleManager.h          # Заголовочний файл менеджера стилів.
-├── UIStyleManager.cpp        # Реалізація CSS-стилів.
-├── IconGenerator.h           # Заголовочний файл генератора іконок.
-├── IconGenerator.cpp         # Реалізація програмної іконки.
-├── lab01.pro                 # Файл проєкту Qt (qmake).
+lab01/Password Security Analyzer/
+|    ├── Main.cpp                  # Точка входу в програму.
+|    ├── MainWindow.h              # Заголовочний файл головного вікна.
+|    ├── MainWindow.cpp            # Реалізація головного вікна.
+|    ├── PasswordAnalyzer.h        # Заголовочний файл аналізатора.
+|    ├── PasswordAnalyzer.cpp      # Реалізація логіки аналізу.
+|    ├── ReportGenerator.h         # Заголовочний файл генератора звітів.
+|    ├── ReportGenerator.cpp       # Реалізація HTML-звітів.
+|    ├── UIStyleManager.h          # Заголовочний файл менеджера стилів.
+|    ├── UIStyleManager.cpp        # Реалізація CSS-стилів.
+|    ├── IconGenerator.h           # Заголовочний файл генератора іконок.
+|    ├── IconGenerator.cpp         # Реалізація програмної іконки.
+|    └── lab01.pro                 # Файл проєкту Qt (qmake).
 └── README.md                 # Цей файл.
 ```
 
